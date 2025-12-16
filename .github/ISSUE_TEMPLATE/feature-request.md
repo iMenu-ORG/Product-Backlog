@@ -19,7 +19,7 @@ _Describir el tipo de usuario impactado por esta funcionalidad_
 **¿A qué partes de la plataforma impacta?**
 _Qué secciones, módulos o pantallas se verán modificadas._
 
-- ¿En qué canal o canales tendrá impacto esta nueva funcionalidad?
+**¿En qué canal o canales tendrá impacto esta nueva funcionalidad?**
 - [ ] End User
 - [ ] Backoffice
 - [ ] Plataforma (ambas)
